@@ -1,0 +1,19 @@
+.textbox {
+  width: 450px;
+}
+.textbox2 {
+  width: 250px;
+}
+.space {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+ul li {
+  list-style-type: decimal;
+}
+/* .makeItCentered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
